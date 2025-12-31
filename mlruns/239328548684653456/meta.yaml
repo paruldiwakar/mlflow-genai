@@ -1,0 +1,6 @@
+artifact_location: file:///Users/paruldiwakar/Desktop/mlflow-genai/mlruns/239328548684653456
+creation_time: 1767172374418
+experiment_id: '239328548684653456'
+last_update_time: 1767172374418
+lifecycle_stage: active
+name: LLM Evaluation - Kimi with Gemini Judge
