@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/paruldiwakar/Desktop/mlflow-genai/mlruns/520335319363625619/10fa1801388b44c68468cbe18897feea/artifacts
+end_time: 1767170260750
+entry_point_name: ''
+experiment_id: '520335319363625619'
+lifecycle_stage: active
+run_id: 10fa1801388b44c68468cbe18897feea
+run_name: flawless-shoat-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767170254894
+status: 3
+tags: []
+user_id: paruldiwakar

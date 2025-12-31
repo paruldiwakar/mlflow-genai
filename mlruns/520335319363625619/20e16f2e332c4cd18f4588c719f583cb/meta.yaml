@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/paruldiwakar/Desktop/mlflow-genai/mlruns/520335319363625619/20e16f2e332c4cd18f4588c719f583cb/artifacts
+end_time: 1767170456046
+entry_point_name: ''
+experiment_id: '520335319363625619'
+lifecycle_stage: active
+run_id: 20e16f2e332c4cd18f4588c719f583cb
+run_name: fortunate-newt-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767170449336
+status: 3
+tags: []
+user_id: paruldiwakar

@@ -1,0 +1,18 @@
+assessment_id: a-fc83c1369c5e48fcbfbddc973fa6e875
+assessment_name: is_english
+create_time: '2025-12-31T08:45:30.592Z'
+feedback:
+  value: 'yes'
+last_update_time: '2025-12-31T08:45:30.592Z'
+metadata:
+  mlflow.assessment.judgeCost: '0.0004195'
+  mlflow.assessment.sourceRunId: 6ae16ad0084a47eb9e2f542e277b399c
+rationale: The guideline states "The answer must be in English". The provided response
+  "reduceByKey aggregates data before shuffling." is entirely in English. Therefore,
+  the guideline is satisfied.
+source:
+  source_id: gemini:/gemini-2.5-flash
+  source_type: LLM_JUDGE
+span_id: b054ad1d94068716
+trace_id: tr-e130d31281fdff1328531a699ab0deef
+valid: true

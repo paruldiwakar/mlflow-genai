@@ -1,0 +1,10 @@
+execution_duration_ms: 0
+request_preview: '{"question": "What is Spark?"}'
+request_time: '2025-12-31T08:37:34.981Z'
+response_preview: '"Spark is a distributed computing framework."'
+state: OK
+trace_id: tr-a5f134eca3e6dbc1479c935b96d3511f
+trace_location:
+  mlflow_experiment:
+    experiment_id: '520335319363625619'
+  type: MLFLOW_EXPERIMENT

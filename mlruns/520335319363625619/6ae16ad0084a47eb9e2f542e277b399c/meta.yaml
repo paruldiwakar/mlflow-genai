@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/paruldiwakar/Desktop/mlflow-genai/mlruns/520335319363625619/6ae16ad0084a47eb9e2f542e277b399c/artifacts
+end_time: 1767170730767
+entry_point_name: ''
+experiment_id: '520335319363625619'
+lifecycle_stage: active
+run_id: 6ae16ad0084a47eb9e2f542e277b399c
+run_name: angry-goose-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767170727634
+status: 3
+tags: []
+user_id: paruldiwakar

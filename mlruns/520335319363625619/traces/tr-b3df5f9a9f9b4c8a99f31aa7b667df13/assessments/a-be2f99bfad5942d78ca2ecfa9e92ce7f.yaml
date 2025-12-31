@@ -1,0 +1,18 @@
+assessment_id: a-be2f99bfad5942d78ca2ecfa9e92ce7f
+assessment_name: is_english
+create_time: '2025-12-31T08:45:30.711Z'
+feedback:
+  value: 'yes'
+last_update_time: '2025-12-31T08:45:30.711Z'
+metadata:
+  mlflow.assessment.judgeCost: '0.0005095'
+  mlflow.assessment.sourceRunId: 6ae16ad0084a47eb9e2f542e277b399c
+rationale: The guideline states that "The answer must be in English". The provided
+  response "Spark is a distributed data processing framework." is entirely in English.
+  Therefore, the response fully complies with the given guideline.
+source:
+  source_id: gemini:/gemini-2.5-flash
+  source_type: LLM_JUDGE
+span_id: 53dbf7e6032ea951
+trace_id: tr-b3df5f9a9f9b4c8a99f31aa7b667df13
+valid: true

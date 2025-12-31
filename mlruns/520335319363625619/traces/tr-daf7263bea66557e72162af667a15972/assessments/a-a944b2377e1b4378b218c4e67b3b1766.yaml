@@ -1,0 +1,21 @@
+assessment_id: a-a944b2377e1b4378b218c4e67b3b1766
+assessment_name: correctness
+create_time: '2025-12-31T08:40:56Z'
+feedback:
+  value: 'no'
+last_update_time: '2025-12-31T08:40:56Z'
+metadata:
+  mlflow.assessment.judgeCost: '0.0023349'
+  mlflow.assessment.sourceRunId: 20e16f2e332c4cd18f4588c719f583cb
+rationale: The document states that Spark is a "distributed data processing framework".
+  The claim states that Spark is a "distributed data processing engine". While the
+  initial part of the claim, "Spark is a distributed data processing", is supported,
+  the document uses the term "framework" instead of "engine". Therefore, the claim
+  is not fully supported by the document without making an approximation or assumption
+  about the interchangeability of "engine" and "framework".
+source:
+  source_id: gemini:/gemini-2.5-flash
+  source_type: LLM_JUDGE
+span_id: d41bfb4c009a57e3
+trace_id: tr-daf7263bea66557e72162af667a15972
+valid: true

@@ -1,0 +1,14 @@
+assessment_id: a-a51b0f5b6e2c495d87c709be8b153bf2
+assessment_name: expected_response
+create_time: '2025-12-31T08:45:30.713Z'
+expectation:
+  value: Spark is a distributed data processing engine.
+last_update_time: '2025-12-31T08:45:30.713Z'
+metadata:
+  mlflow.assessment.sourceRunId: 6ae16ad0084a47eb9e2f542e277b399c
+source:
+  source_id: paruldiwakar
+  source_type: HUMAN
+span_id: 53dbf7e6032ea951
+trace_id: tr-b3df5f9a9f9b4c8a99f31aa7b667df13
+valid: true

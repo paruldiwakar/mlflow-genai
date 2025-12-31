@@ -1,0 +1,14 @@
+assessment_id: a-063aefc47a354736b32de0ae0a7d73eb
+assessment_name: expected_response
+create_time: '2025-12-31T08:37:39.624Z'
+expectation:
+  value: reduceByKey combines values before shuffle.
+last_update_time: '2025-12-31T08:37:39.624Z'
+metadata:
+  mlflow.assessment.sourceRunId: 10fa1801388b44c68468cbe18897feea
+source:
+  source_id: paruldiwakar
+  source_type: HUMAN
+span_id: 2cff2abd7e88cbbb
+trace_id: tr-9d5e66f55d5fdfcb1d8b19456a346095
+valid: true

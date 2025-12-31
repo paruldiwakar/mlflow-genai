@@ -1,0 +1,10 @@
+execution_duration_ms: 0
+request_preview: '{"question": "What is reduceByKey?"}'
+request_time: '2025-12-31T08:40:49.661Z'
+response_preview: '"reduceByKey aggregates data before shuffling."'
+state: OK
+trace_id: tr-eb27d7e0850126d12422d091069c1b4d
+trace_location:
+  mlflow_experiment:
+    experiment_id: '520335319363625619'
+  type: MLFLOW_EXPERIMENT

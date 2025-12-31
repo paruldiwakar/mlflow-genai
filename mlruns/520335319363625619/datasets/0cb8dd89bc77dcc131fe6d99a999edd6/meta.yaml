@@ -1,0 +1,10 @@
+digest: 9f8f6860
+name: dataset
+profile: '{"num_rows": 2, "num_elements": 6}'
+schema: '{"mlflow_colspec": [{"type": "object", "properties": {"question": {"type":
+  "string", "required": true}}, "name": "inputs", "required": true}, {"type": "string",
+  "name": "outputs", "required": true}, {"type": "object", "properties": {"expected_response":
+  {"type": "string", "required": true}}, "name": "expectations", "required": true}]}'
+source: '{"tags": {"mlflow.user": "paruldiwakar", "mlflow.source.name": "/Users/paruldiwakar/Desktop/mlflow-genai/venv/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
